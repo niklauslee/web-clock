@@ -1,0 +1,10 @@
+{
+  "name": "web-clock",
+  "description": "A clock device reading time from web.",
+  "main": "index.js",
+  "dependencies": {
+    "esp8266-http-client": "github:niklauslee/esp8266-http-client",
+    "simple-fonts": "github:niklauslee/simple-fonts",
+    "ssd1306": "github:niklauslee/ssd1306"
+  }
+}
